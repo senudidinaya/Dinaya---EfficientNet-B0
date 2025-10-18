@@ -1,0 +1,7 @@
+.venv/
+.idea/
+Vit/dataset/chest_xray/
+ViT/vit_chest_xray_best.pth
+*/__pycache__/
+ViT/tst.ipynb
+
